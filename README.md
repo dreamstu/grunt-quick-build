@@ -22,7 +22,6 @@ grunt.loadNpmTasks('grunt-quick-build');
 
 ```{js}
 grunt.initConfig({
-  "build" : {
 	build: {
 		options: {
 			uglify: true
@@ -35,7 +34,6 @@ grunt.initConfig({
 			dest: "./dest",
 		}
 	}
-  }
 });
 ```
 
