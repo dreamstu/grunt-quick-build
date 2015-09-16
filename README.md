@@ -66,15 +66,6 @@ grunt.initConfig({
 
 压缩混淆options选项，详情请参考_http://lisperator.net/uglifyjs/codegen_
 
-#### options.output
-类型   : `Object`
-默认值 : `"{
-	indent_level: 2, //tab为2个空格
-	ascii_only: true//unicode编码输出
-}"`
-
-压缩混淆options选项，详情请参考_http://lisperator.net/uglifyjs/codegen_
-
 ### Target
 
 ### id
