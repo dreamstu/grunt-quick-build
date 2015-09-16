@@ -1,5 +1,5 @@
 module.exports = function(grunt) {
-	grunt.loadTasks('../lib/task');
+	grunt.loadTasks('../tasks');
 
 	grunt.initConfig({
 		build: {
